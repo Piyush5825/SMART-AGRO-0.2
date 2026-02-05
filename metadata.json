@@ -1,0 +1,9 @@
+{
+  "name": "Smart Agro",
+  "description": "महाराष्ट्र राज्यातील शेतकऱ्यांसाठी एआय-आधारित कृषी व्यासपीठ. पीक तपासणी, बाजारभाव, आणि हवामान अंदाज एकाच ठिकाणी.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
